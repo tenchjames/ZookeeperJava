@@ -3,3 +3,4 @@
 *.iml
 *.ipr
 /Zookeeper (Java)/task/build/
+gradle/
